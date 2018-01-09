@@ -13,7 +13,7 @@ model是已经训练好的模型（训练轮数为1000轮），默认设置黑�
 
 运行：(调用已训练好model)
 
-python3 PolicyGradient/reveersi_main.py
+python3 reveersi_main.py
 
 
 预期输出：
