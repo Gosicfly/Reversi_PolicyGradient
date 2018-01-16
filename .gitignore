@@ -1,3 +1,5 @@
 __pycache__/
 model.*
 .DS_Store
+.idea/*
+_gym/*
